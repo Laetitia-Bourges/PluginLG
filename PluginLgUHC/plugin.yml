@@ -1,0 +1,13 @@
+name: LoupGarou
+version: 1.0.0
+author: wintersnow
+main: fr.wintersnow.monplugin.Main
+commands:
+  save:
+  flair:
+  love:
+  protect:
+  see:
+  start:
+  team:
+  vote:
